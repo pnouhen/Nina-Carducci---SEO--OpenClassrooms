@@ -356,4 +356,5 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
+.visually-hidden{
+color: black;}
